@@ -2,10 +2,10 @@
 Text field UI for OSX that attempt to emulate the popular Safari/Chrome Omni search bar.
 
 ## Overview
-BKSearchTextField is a NSTextField subclass that attempt to emulate the popular Safari/Chrome Omni search bar with automatic suggestive for text entry.
+BKSearchTextField is a NSTextField subclass that attempt to emulate the popular Safari/Chrome Omni search bar with listing of automatic suggestive inputs for text entry.
 
 ## Installation
-Simply copy the single file [SearchTextField.swift](https://github.com/bennyk/BKSearchTextField/blob/master/BKSearchTextField/SearchTextField.swift "SearchTextField") to your XCode project. That is all required!
+Simply copy the single file [SearchTextField.swift](https://github.com/bennyk/BKSearchTextField/blob/master/BKSearchTextField/SearchTextField.swift "SearchTextField") to your XCode project and start enjoying all the advantages :)
 
 ## Demo
 ![alt text][demo]
