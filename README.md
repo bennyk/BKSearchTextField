@@ -73,7 +73,7 @@ acronymTextField.userStoppedTypingHandler = {
 
 Benny Khoo, benny_khoo_99@yahoo.com
 
-##Inspiration
+##Credits
 
 BKSearchTextField was heavily inspired by another iOS sibling project by [Apasccon](https://github.com/apasccon/SearchTextField) however is optimized for keyboard interface and Cocoa.
 
